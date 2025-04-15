@@ -1,7 +1,6 @@
 #  System Performance Monitoring with Python, SQL Server & Power BI
 
 ![alt_text](https://github.com/bacdillon/PowerBI/blob/main/Power%20BI%20System%20Performance.jpg)
-![alt_text](https://github.com/bacdillon/PowerBI/blob/main/Presentation1.gif)
 
 A Python-based system monitoring application that captures real-time performance metrics using the psutil library. The application continuously logs key system data into a SQL Server database every second, enabling detailed analysis and visualization in Power BI.
 
