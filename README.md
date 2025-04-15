@@ -14,7 +14,7 @@ A Python-based system monitoring application that captures real-time performance
 ### Key Features:
 - Real-time data capture loop using psutil.
 - Data is written to a SQL Server database for persistence.
-- Power BI dashboard connects to the database (or an exported CSV) to visualize system health:
+- Power BI dashboard connects to the database (or an exported CSV) to visualize system health:<BR>
  -- Gauge visuals for CPU, disk, and memory usage.<BR>
  -- Time-series charts for network and CPU activity.<BR>
  -- Donut chart for memory distribution (free vs used).<BR>
