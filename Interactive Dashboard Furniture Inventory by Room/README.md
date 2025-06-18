@@ -1,6 +1,8 @@
 #  The Interactive Dashboard: Furniture Inventory by Room
 This interactive Power BI dashboard visualizes the distribution of furniture items across a residential floor plan, combining spatial insight with inventory analytics.
 
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
+
 ### Key Features:
 1. Interactive Floor Plan (Left Panel)
 - A color-coded blueprint of the home's layout, including rooms such as the Eat-in Kitchen, Formal
