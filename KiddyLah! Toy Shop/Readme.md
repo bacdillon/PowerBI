@@ -9,3 +9,4 @@ Total Profit: $174,620
 
 Performance trends are visualized over time with line and area charts for orders, revenue, and profit. The "Total Orders by Product Category" chart shows Toys as the top-selling category, followed by Games and Art & Crafts.
 A slicer allows filtering by store location (Airport, Commercial, Downtown, Residential) for focused analysis.
+![alt_text](https://github.com/bacdillon/PowerBI/blob/main/KiddyLah!%20Toy%20Shop/kpi%20.png)
