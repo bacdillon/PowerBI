@@ -1,6 +1,6 @@
 #  KiddyLah! Toyshop KPI Dashboard
 
-![alt_text](https://github.com/bacdillon/PowerBI/blob/main/Interactive%20Dashboard%20Furniture%20Inventory%20by%20Room/All%20rooms.jpg)
+![alt_text](https://github.com/bacdillon/PowerBI/blob/main/KiddyLah!%20Toy%20Shop/kpi%20.png)
 
 This dashboard provides a snapshot of key performance indicators for KiddyLah! Toyshop. It highlights:
 Total Orders: 41,830
