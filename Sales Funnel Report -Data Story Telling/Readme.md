@@ -1,6 +1,6 @@
 #  Sales Funnel Report -Data Story Telling
 
-![alt_text](https://github.com/bacdillon/PowerBI/blob/main/KiddyLah!%20Toy%20Shop/kpi%20.png)
+![alt_text](https://github.com/bacdillon/PowerBI/blob/main/Sales%20Funnel%20Report%20-Data%20Story%20Telling/Sales%20Funnel%20Report%20-Data%20Story%20Telling.png)
 
 During the first two months, Alex signed two contracts, Mary also signed two, Victor signed one, and Peter didn't sign any contracts.
 Let's discuss Alex's result. Click on Alex and see how the funnel changes. What we can see is that he signed two contracts and his conversion rate is 8%. However, he stopped making offers and didn't attract new customers. So, he shouldn't sit and wait to sign contracts. He should continue to call potential clients and make offers.
